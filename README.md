@@ -12,34 +12,34 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 
-- 🔭 Currently working on **PI Marketing**
-- 🌱 Expanding expertise in:  
-  - **Backend**: Laravel, Django, Node.js, Flask  
-  - **Frontend**: React, Vue.js  
-  - **Databases**: MySQL, PostgreSQL, MongoDB  
-  - **DevOps/Cloud**: Docker, GitHub Actions, AWS, Lightsail  
-  - **Security**: Secure coding, DevSecOps basics  
-- 💼 Full Stack Developer with experience in **scalable apps & automation**  
-- 🛡️ Passionate about **Cybersecurity & Cloud Architecture**  
-- 📚 Always learning **clean code, CI/CD, and cloud-native tools**  
-
----
-
-### 💡 What I Do  
-
-- 🖥 **Backend Development** – REST APIs, scalable server apps  
-- 🎨 **Frontend Development** – dynamic UIs (React / Vue)  
-- 🗄 **Database Design** – efficient, optimized schemas  
-- ☁️ **Cloud Architecture** – AWS deployments, Dockerized apps  
-- 🔒 **Security Practices** – secure coding, basic penetration testing  
-- ⚙️ **DevOps** – CI/CD pipelines, containerization  
-- 🚀 **Performance Optimization** – speed, scalability, reliability  
+-   🔭 Currently working on **PI Marketing**
+-   🌱 Expanding expertise in:
+    -   **Backend**: Laravel, Django, Node.js, Flask
+    -   **Frontend**: React, Vue.js
+    -   **Databases**: MySQL, PostgreSQL, MongoDB
+    -   **DevOps/Cloud**: Docker, Jenkins, GitHub Actions, AWS, Lightsail
+    -   **Security**: Secure coding, DevSecOps basics
+-   💼 Full Stack Developer with experience in **scalable apps & automation**
+-   🛡️ Passionate about **Cybersecurity & Cloud Architecture**
+-   📚 Always learning **clean code, CI/CD, and cloud-native tools**
 
 ---
 
-### 🛠 Tech Stack  
+### 💡 What I Do
+
+-   🖥 **Backend Development** – REST APIs, scalable server apps
+-   🎨 **Frontend Development** – dynamic UIs (React / Vue)
+-   🗄 **Database Design** – efficient, optimized schemas
+-   ☁️ **Cloud Architecture** – AWS deployments, Dockerized apps
+-   🔒 **Security Practices** – secure coding, DevSecOps basics
+-   ⚙️ **DevOps** – CI/CD pipelines, containerization
+-   🚀 **Performance Optimization** – speed, scalability, reliability
+
+---
+
+### 🛠 Tech Stack
 
 <details>
 <summary>🌐 Frontend & Backend</summary>
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 </details>
@@ -80,14 +80,12 @@
 <summary>🔒 Security Tools</summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 </details>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souhailbakioui&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
@@ -100,7 +98,7 @@
 
 ---
 
-### 🏆 Achievements  
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=souhailbakioui&theme=radical&row=1&column=6"/>
@@ -114,12 +112,16 @@
 
 ---
 
-### 📫 Connect With Me  
+<h3 align="center">⭐️ Always open to collaboration and learning opportunities! ⭐️</h3>
+
+---
+
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/bakiouisohail" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white"/>
+</a>
   <a href="https://linkedin.com/in/bakiouisouhail" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
