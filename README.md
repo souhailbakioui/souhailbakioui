@@ -1,41 +1,59 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Bakioui+Souhail;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Cybersecurity+Learner&center=true&width=600&height=45&duration=3000&pause=1000&color=60a5fa">
-</div>
 
-<p align="center">
-  <a href="https://x.com/bakiouisohail" target="blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/>
-  </a>
-  <a href="https://linkedin.com/in/bakiouisouhail" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=60&duration=4000&lines=Hi+👋,+I'm+Bakioui+Souhail;Full+Stack+Engineer;DevOps+%26+Cloud+Enthusiast;Cybersecurity+Learner" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=souhailbakioui&label=Profile%20views&color=60a5fa&style=flat-square" alt="profile views"/>
+<h3>🚀 Full Stack Engineer | DevOps & Cloud Practitioner | Cybersecurity Enthusiast</h3>
+<h4>Building scalable systems • Automating infrastructure • Securing modern applications</h4>
+
 </div>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 **Currently Building**: [PI Marketing](https://github.com/souhailbakioui) - A scalable marketing automation platform.
-- 🛡️ **Passionate About**: Cybersecurity, DevSecOps, and High-Availability Cloud Architecture.
-- 💼 **Experience**: Full Stack Developer specializing in robust backends and dynamic, responsive frontends.
-- 📚 **Lifelong Learner**: Currently deep-diving into Cloud-Native tools and automated security pipelines.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=souhailbakioui&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/souhailbakioui?label=Followers&style=social" />
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## 👨‍💻 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I design and build **production-ready web applications** with a strong focus on:
+
+- ⚙️ **Scalable Backend Architectures**
+- ☁️ **Cloud-Native & Containerized Systems**
+- 🔐 **Security-First Development (DevSecOps mindset)**
+- 🚀 **Automation & CI/CD Pipelines**
+
+### 🎯 What Drives Me
+
+- Transforming ideas into **robust distributed systems**
+- Designing clean architecture using **SOLID & design patterns**
+- Automating deployments and infrastructure
+- Strengthening application security through continuous testing
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-05122A?style=flat&logo=github-actions) |
+| **Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)  |
+
+---
+
+## 🔬 Current Focus
+
+- 🛡️ Building **secure CI/CD pipelines**
+- ☁️ Deep diving into **Cloud-Native Architecture**
+- 🐳 Advanced **Docker & container orchestration**
+- 🔎 Learning **SOC operations & detection engineering**
 
 ---
 
